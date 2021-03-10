@@ -30,7 +30,7 @@ class UserActivity : Fragment() {
         return binding.root
     }
 
-    
+
     fun updateScreen() {
         binding.invalidateAll()
     }

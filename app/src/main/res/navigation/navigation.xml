@@ -16,7 +16,7 @@
     </fragment>
     <fragment
     android:id="@+id/nextFragment"
-    android:name="com.example.assignment.NextFragment"
+    android:name="com.example.assignment.UserActivity"
     android:label="next_fragment"
     tools:layout="@layout/next_fragment" />
 </navigation>
